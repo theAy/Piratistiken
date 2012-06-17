@@ -121,5 +121,6 @@
 20120519	614
 20120531	632
 20120611	638
+20120607  652
 #
 # https://wiki.piratenpartei.de/LSA:Landesverband/Organisation/Vorstand/Sitzungen
